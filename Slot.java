@@ -5,6 +5,6 @@ public class Slot {
     public Slot(String type) {
         this.type = type;
         this.vehicle = null;
-        this.ticket = null;
+        this.ticketId = null;
     }
 }
